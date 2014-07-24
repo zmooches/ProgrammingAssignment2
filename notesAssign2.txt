@@ -1,0 +1,32 @@
+
+my directory is in: C:\Users\banhc
+
+Git Book -- http://www.git-scm.com/book
+
+
+
+
+
+Welcome to Git (version 1.9.4-preview20140611)
+
+
+Run 'git help git' to display the help index.
+Run 'git help <command>' to display help for specific commands.
+
+banhc@AVLA1L0636 ~ (master)
+$ git clone https://github.com/zmooches/ProgrammingAssignment2.git
+Cloning into 'ProgrammingAssignment2'...
+fatal: unable to access 'https://github.com/zmooches/ProgrammingAssignment2.git/
+': Failed connect to github.com:443; No error
+
+banhc@AVLA1L0636 ~ (master)
+$ git clone https://github.com/zmooches/ProgrammingAssignment2.git
+Cloning into 'ProgrammingAssignment2'...
+remote: Reusing existing pack: 22, done.
+remote: Total 22 (delta 0), reused 0 (delta 0)
+Unpacking objects: 100% (22/22), done.
+Checking connectivity... done.
+
+banhc@AVLA1L0636 ~ (master)
+$
+
